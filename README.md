@@ -5,3 +5,5 @@
 - getNumber    : return repunit number for inout lenght
 
 - R is the main function : accepting repunit and return sum of prime factors
+
+note : this algorithem is the best complexity O(n)
